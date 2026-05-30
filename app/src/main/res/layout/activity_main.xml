@@ -120,7 +120,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="@string/tip_amount_0_00"
+        android:text="@string/tip_amount"
         app:layout_constraintEnd_toEndOf="@+id/calculate_button"
         app:layout_constraintTop_toBottomOf="@+id/calculate_button" />
 
